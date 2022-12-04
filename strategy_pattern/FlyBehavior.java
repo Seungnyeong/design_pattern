@@ -1,4 +1,4 @@
-package ex_1_duck;
+package strategy_pattern;
 
 public interface FlyBehavior {
     public void fly();
